@@ -10577,11 +10577,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/asli/Downloads/ArtProject-master/ArtProject/ArtProject.csproj",
+      "projectUniqueName": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/ArtProject.csproj",
       "projectName": "ArtProject",
-      "projectPath": "/Users/asli/Downloads/ArtProject-master/ArtProject/ArtProject.csproj",
+      "projectPath": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/ArtProject.csproj",
       "packagesPath": "/Users/asli/.nuget/packages/",
-      "outputPath": "/Users/asli/Downloads/ArtProject-master/ArtProject/obj/",
+      "outputPath": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/asli/.nuget/NuGet/NuGet.Config"

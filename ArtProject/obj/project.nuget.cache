@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8COzlB3aXlsedneiloL1wfGgCXNSiuwK92drakzUOmfQx4yPrdjzwtXaPvk+q1Y0ycRaVVqw0oGrXmajtZ0D0w==",
+  "dgSpecHash": "sORmzI16JYCQLRzWp2YMkEaGcLWyj0SlaVWq+h2jm/CXBiMWyzCiChLRYhmERGTVzUMdnGIulYweRN7EFZD+Ew==",
   "success": true,
-  "projectFilePath": "/Users/asli/Downloads/ArtProject-master/ArtProject/ArtProject.csproj",
+  "projectFilePath": "/Users/asli/Downloads/ArtProject-master-2/ArtProject/ArtProject.csproj",
   "expectedPackageFiles": [
     "/Users/asli/.nuget/packages/anglesharp/1.0.3/anglesharp.1.0.3.nupkg.sha512",
     "/Users/asli/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
